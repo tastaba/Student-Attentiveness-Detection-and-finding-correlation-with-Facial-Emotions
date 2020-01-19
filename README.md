@@ -1,0 +1,2 @@
+# Student-Attentiveness-Detection-and-finding-correlation-with-Facial-Emotions
+This is my MS thesis project where I used CNN model to build a classifier. This classifier can identify attentive and inattentive students in classroom. I then used amazon image rekognition API to calculate the confidence values of different emotions in students. I used statistical analysis to find any correlation between the attentiveness level and the facial expressions.
